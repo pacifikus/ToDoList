@@ -1,5 +1,9 @@
 # my-vue-app
 
+Simple ToDo app
+
+<img src="readme/preview.jpg" title="Preview image"/>
+
 ## Project setup
 ```
 npm install
