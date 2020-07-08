@@ -2,7 +2,7 @@
 
 Simple ToDo app
 
-<img src="readme/preview.jpg" title="Preview image"/>
+<img src="readme/preview.jpg" title="Preview image" height="300"/>
 
 ## Project setup
 ```
